@@ -1,0 +1,2 @@
+# CloudTailor
+My Azure Project
